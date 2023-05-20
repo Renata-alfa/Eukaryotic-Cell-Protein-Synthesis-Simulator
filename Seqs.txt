@@ -1,0 +1,22 @@
+seq de DNA //composto soh de startcodons, dessa forma passa pela percentagem
+do RNAM
+
+atactactactactactactactactactactactactactactactactactactactactactactac
+tactactactactactactactactactactactactactatactactactactactactactactacta
+ctactactactactactactactactactactactactactatactactactactactactactactact
+actactactactactactactactactactactactactactatactactactactactactactactac
+tactactactactactactactactactactactactactactatactactactactactactactacta
+ctactactactactactactactactactactactactacttactactactacacttaa
+
+
+
+seq com erro
+atacgggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+gggggggggggggggggggggggggghhhccccccccccccccccccccccccccccccccccccuaaaa
+
+
+starcodon =  AUG no RNAm
+stopcodon =  UAA ou UGA ou UAG no RNAm
+
+auguaacgc cgcgcgcggcgc cgcgcgcgcg cgcgcgcgcgc ggcgcgcgcgcgcgc ggcgcgcg
+cgcgcgcggcgcgcgcgcgcgc ggcgcgcgcgcgcgc ggcgcgcgcgcgcgc uaaaaaaaaaa
