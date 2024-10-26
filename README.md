@@ -1,1 +1,1 @@
-Este projeto foi realizado em código Java, com intuito de simular as saídas da transcrição do RNAm em proteínas, a idéia era evoluir para Agentes Autonômos com IA.
+This project was carried out in Java code, with the aim of simulating the outputs of mRNA transcription in proteins, the idea being to evolve into Autonomous Agents with AI.
